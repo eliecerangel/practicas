@@ -1,4 +1,4 @@
-tengo la gorra negra porque negra tengo el alma
+algo mejorado
 
 hola de nuevo soy eliecer rangel, el dueño de la apartamento.
 
@@ -13,3 +13,5 @@ mas cambios que hacer, despues de tantos trabajos
 mas informacion para comprobar si funciona o no jeje
 
 mas lineas pero son para ejemplo jeje bye bye
+
+aqui voy agregar este tipo de cosas nuevas para probar el git pull request
